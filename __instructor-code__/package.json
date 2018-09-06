@@ -1,5 +1,5 @@
 {
-  "name": "fullstack-review-wpx7",
+  "name": "full-stack-review-wpx7",
   "version": "0.1.0",
   "private": true,
   "main": "server/index.js",
